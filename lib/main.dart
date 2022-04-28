@@ -8,7 +8,7 @@ void main() {
           title: Text("g r e e n"),
           backgroundColor: Colors.teal[900],
         ),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.yellow,
         body: Center(
           child: Image(
             image: AssetImage('images/g.jpg'),
